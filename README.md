@@ -39,7 +39,7 @@
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/oleg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oleg-linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/oleg-serov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oleg-linkedin" height="30" width="40" /></a>
 <a href="https://fb.com/oleg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oleg-fb" height="30" width="40" /></a>
 <a href="https://instagram.com/insta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta" height="30" width="40" /></a>
 <a href="mailto:sir.serow@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" height="30" width="40" /></a>
