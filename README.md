@@ -71,11 +71,11 @@
 ## 💡 Innovation Philosophy
 I believe transformative innovation emerges at the intersection of deep vertical expertise and horizontal curiosity. My approach follows three core principles:
 
-* Holistic Mastery: If it exists in my environment, I must understand its heartbeat - from quantum phenomena in silicon to containerization entropy in Docker
+* **Holistic Mastery:** If it exists in my environment, I must understand its heartbeat - from quantum phenomena in silicon to containerization entropy in Docker
 
-* Boundary Fusion: Breakthroughs live in the handshake areas between disciplines - where VLSI thermal analysis informs PCB layout, and Python memory management inspires power gating strategies
+* **Boundary Fusion:** Breakthroughs live in the handshake areas between disciplines - where VLSI thermal analysis informs PCB layout, and Python memory management inspires power gating strategies
 
-* Full-Stack Vision: True system wisdom comes from tracing electrons from dopant impurities through Verilog abstractions to REST API endpoints - this continuum reveals hidden optimization vectors
+* **Full-Stack Vision:** True system wisdom comes from tracing electrons from dopant impurities through Verilog abstractions to REST API endpoints - this continuum reveals hidden optimization vectors
 
 My work in chip design, wireless power research, and embedded systems demonstrates how CMOS fab knowledge can inspire Python optimization patterns, and how MCU firmware might reshape web app architectures. **The future belongs to those who speak both SPICE and PEP8 fluently.**
 
