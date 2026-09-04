@@ -67,8 +67,8 @@ I started closer to hardware, working with embedded systems, electronics, and AS
 ## GitHub dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sirserow&show_icons=true&theme=github_dark_dimmed&hide_border=true" height="155" alt="Oleg's GitHub statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sirserow&layout=compact&langs_count=6&theme=github_dark_dimmed&hide_border=true" height="155" alt="Most used languages">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="48%" alt="Oleg's GitHub statistics">
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="48%" alt="Most used languages by commit">
 </p>
 
 <p align="center">
