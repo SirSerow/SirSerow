@@ -7,6 +7,9 @@ on:
       - main
     paths:
       - .github/workflows/profile-summary-cards.yml
+  schedule:
+    - cron: "17 3 * * *"
+      timezone: "Asia/Tokyo"
 
 permissions:
   contents: write
